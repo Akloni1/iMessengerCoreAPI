@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BcWUx2SRNk4Ddbb8ukHPyNFptvbDb69Xwlzt5f52hz0=",
+  "Source": "iMessengerCoreAPI",
+  "BasePath": "_content/iMessengerCoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
