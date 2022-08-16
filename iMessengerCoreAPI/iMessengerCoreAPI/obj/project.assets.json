@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Михаил\\source\\repos\\iMessengerCoreAPI\\iMessengerCoreAPI\\iMessengerCoreAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\iMessengerCoreAPI\\iMessengerCoreAPI\\iMessengerCoreAPI\\iMessengerCoreAPI.csproj",
       "projectName": "iMessengerCoreAPI",
-      "projectPath": "C:\\Users\\Михаил\\source\\repos\\iMessengerCoreAPI\\iMessengerCoreAPI\\iMessengerCoreAPI.csproj",
+      "projectPath": "C:\\Users\\Михаил\\Desktop\\iMessengerCoreAPI\\iMessengerCoreAPI\\iMessengerCoreAPI\\iMessengerCoreAPI.csproj",
       "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Михаил\\source\\repos\\iMessengerCoreAPI\\iMessengerCoreAPI\\obj\\",
+      "outputPath": "C:\\Users\\Михаил\\Desktop\\iMessengerCoreAPI\\iMessengerCoreAPI\\iMessengerCoreAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",

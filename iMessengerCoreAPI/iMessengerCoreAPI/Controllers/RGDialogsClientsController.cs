@@ -15,23 +15,12 @@ namespace iMessengerCoreAPI.Controllers
             _logger = logger;
         }
 
-
-
-
-
         [Route("GetDialogByClients")]
         [HttpPost]
-        public IActionResult GetDialogByClients(string[] id)
+        public IActionResult GetDialogByClients(List<Guid> idClients)
         {
-            List<RGDialogsClients> data = new List<RGDialogsClients>();
-            data = _rGDialogsClients.Init();
 
-
-            List<Guid> idClients = new List<Guid>();
-            foreach (string idClient in id)
-            {
-                idClients.Add(new Guid(idClient));
-            }
+            List<RGDialogsClients> data = _rGDialogsClients.Init();
 
             var trueId = from d1 in data
                          join i in (

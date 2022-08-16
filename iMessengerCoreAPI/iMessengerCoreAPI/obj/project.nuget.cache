@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U9hQY3i84CIuhqM6ODq2C/UR913gaYTaF80ldDU0++SbteSmsN/P+tCV0ykNoLG1nMThgQntp1XR/3H9gOUvNA==",
+  "dgSpecHash": "skgnBJEIQPwOV7uKOd/v0lAXWTkRuGff/ckQGO0pU2l9d5UPnNCgraJ6DGz2EhSkDLMOTKpucBBtrlQpHkmNhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Михаил\\source\\repos\\iMessengerCoreAPI\\iMessengerCoreAPI\\iMessengerCoreAPI.csproj",
+  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\iMessengerCoreAPI\\iMessengerCoreAPI\\iMessengerCoreAPI\\iMessengerCoreAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
